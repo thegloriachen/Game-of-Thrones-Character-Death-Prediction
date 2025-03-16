@@ -10,7 +10,7 @@
 - Graphviz（決策樹圖輸出）
 
 ## 💻Project Source Codes:
-[Game of Thrones Character Death Prediction](Game of Thrones Character Death Prediction.py)
+[Game of Thrones Character Death Prediction](https://github.com/thegloriachen/Game-of-Thrones-Character-Death-Prediction/blob/main/Game%20of%20Thrones%20Character%20Death%20Prediction.py)
 
 ## 🚀 專案流程說明
 
